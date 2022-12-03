@@ -108,6 +108,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://testingbot.com/favicon.ico" alt="TestingBot" height="16" /> TestingBot](https://testingbot.com/) - Browser Testing - request needed
 
+### Testing
+
+[<img src="https://wallabyjs.com/assets/img/favicon.ico?v=2" alt="Wallaby.js" height="16" /> Wallaby.js](https://wallabyjs.com/) - free Wallaby Open Source license - [Wallaby.js Open Source License](https://wallabyjs.com/oss/)
+
 ### Monitoring
 
 [<img src="https://plus.google.com/_/favicon?domain=https://bugsnag.com/" height="16" alt="Bugsnag" /> Bugsnag](https://bugsnag.com/blog/bugsnag-loves-open-source) - Multilanguage Crossplatform Error Monitoring - free for open source - email request needed
