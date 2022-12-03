@@ -12,6 +12,13 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 [<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description% - %rules%
 ```
 
+or run the following bookmarklet and copy the prompt in the rules page. Remember to replace `$SERVICE_NAME` with the actual service name.
+
+```
+javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NAME";serviceUrl=`${location.origin}/`;description=String(getSelection());rulesTitle=document.title;rulesUrl=String(location);markdown=`[<img%20src="${faviconUrl}"%20alt="${serviceName}"%20height="16"%20/>%20${serviceName}](${serviceUrl})%20-%20${description}%20-%20[${rulesTitle}](${rulesUrl})`;void%20prompt(markdown,markdown);}
+```
+
+
 ###### In alphabetical order, please
 
 ---
