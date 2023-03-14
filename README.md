@@ -140,6 +140,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://sonarcloud.io/favicon.ico" alt="SonarCloud" height="16" /> SonarCloud](https://sonarcloud.io) - Code coverage, code smell, and bug/vulnerability detection and tracking
 
+### Code Quality
+
+[<img src="https://codescene.com/favicon.ico" alt="CodeScene" height="16" /> CodeScene](https://codescene.com/) - free on Open source projects - [Community edition](https://codescene.com/community-edition)
+
 ### Localization
 
 [<img src="https://crowdin.com/favicon.ico" alt="Crowdin" height="16" /> Crowdin](https://crowdin.com/) - free for open source - request needed
